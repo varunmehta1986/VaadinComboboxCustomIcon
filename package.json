@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@polymer/lit-element": "^0.7.1",
+    "@vaadin/vaadin-combo-box": "^5.0.10"
+  }
+}
